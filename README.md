@@ -1,0 +1,2 @@
+# newGitLesson
+Readmi first!
